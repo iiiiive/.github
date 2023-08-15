@@ -1,8 +1,8 @@
 # *iiiiive*
 
-- [스파르타코딩클럽 내일배움캠프](https://nbcamp.spartacodingclub.kr/)
+![iiiiive GitHub Organization Banner Frame](https://github.com/iiiiive/.github/assets/26790710/d7535e13-014e-4102-b8d1-6003d4734cb3)
+
 
 ## Projects
-> 이미지 클릭 시 해당 프로젝트로 이동
 
-[![GitHub Banner Frame](https://github.com/iiiiive/.github/assets/26790710/6db5ef2d-dcb6-4db7-8406-d1b112988ae0)](https://github.com/iiiiive/nbcamp-ios)
+➡️ [NBCamp(나방금배움캠프) iOS](https://github.com/iiiiive/nbcamp-ios)
